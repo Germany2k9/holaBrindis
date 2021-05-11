@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">holaBrindis</string>
+    <string name="saludar">Visca Barza..!!!</string>
+    <string name="btnContador">Contador</string>
+    <string name="valor_inicial_contador">0</string>
+    <string name="saludo">hola brindis</string>
+
+</resources>
